@@ -1,6 +1,6 @@
 # PanditasCursis PMO
 
-![panditascursis_logo](https://imgur.com/a/JlEN6e2)
+![panditascursis_logo](https://i.imgur.com/mzEOWVx.png)
 
 Visión
 
