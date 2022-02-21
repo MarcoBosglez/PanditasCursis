@@ -1,9 +1,11 @@
 # PanditasCursis PMO
 Visión
+
 La visión de nuestra Oficina de Planeación de Proyectos es brindar mentoría, capacitar y asistir al departamento de operaciones asegurándonos de que las entregas se hagan en tiempo y forma, con los recursos necesarios y de una manera profesional.
 
 
 Misión
+
 La misión de nuestra Oficina de Planeación de Proyectos es manejar metodologías de gestión de proyectos con la finalidad de entregar proyectos satisfactorios.
 
 
