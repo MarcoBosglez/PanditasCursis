@@ -11,18 +11,18 @@ La misión de nuestra Oficina de Planeación de Proyectos es manejar metodologí
 
 Valores
 
-- Ser funcionales
+- Ser funcionales: 
 Es decir, poder proveer el servicio ideal a los clientes.
 
-- Compromiso
+- Compromiso: 
 Buscamos el trabajo con excelencia, asegurando el cumplimiento de todos los acuerdos.
 
-- Respeto
+- Respeto: 
 Tratar a los clientes con respeto y honestidad es uno de los pilares de nuestra Oficina.
 
-- Efectividad
+- Efectividad: 
 Realizar el servicio de la mejor manera posible, para la satisfacción del cliente.
 
-- Transparencia
+- Transparencia: 
 Ser claros en relación a los servicios ofrecidos, la manera en que son desarrollados. Manteniendo siempre una buena comunicación con el cliente.
 
